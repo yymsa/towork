@@ -1,0 +1,240 @@
+@media screen and (min-width:1000px) {
+    .nav1{
+        background-color: #212A3E;
+        position: relative;
+    }
+    #aa{
+        color: white;
+    }
+    .aa1{
+        position: absolute;
+        right: 5%;
+    }
+    .aa2{
+        position: absolute;
+        right: 12%;
+    }
+    .father{
+        width: 100%;
+        height: 440px;
+        background-color: white;
+        display: flex;
+    }
+    .fa1, .fa2{
+        width: 50%;
+        height: 100%;
+        display: inline-block;
+    }
+    .fh1{
+        text-align: center;
+        font-size: 70px;
+    }
+    .fh6{
+        text-align: center;
+    }
+    .a1{
+        position: relative;
+        left: 25%;
+    }
+    .im{
+        border-radius: 25px;
+    }
+    .father1{
+        width: 80%;
+        height: 80px;
+        background-color: #394867;
+        position: relative;
+        left: 10%;
+        border-radius: 15px;
+    }
+    .father1 .in{
+        width: 60%;
+        height: 50%;
+        border-radius: 15px;
+        position: absolute;
+        top: 20%;
+        left: 5%;
+    }
+    .father1 .a2{
+        position: absolute;
+        top: 20%;
+        right: 12%;
+    }
+    .bigg1{
+        width: 40%;
+        height: 60px;
+        background-color: white;
+        position: relative;
+        left: 30%;
+    }
+    .bigg{
+        text-align: center;
+    }
+    .father2{
+        width: 90%;
+        height: 350px;
+        background-color: white;
+        position: relative;
+        left: 5%;
+    }
+    .father2 .fatherr1{
+        width: 47%;
+        height: 100%;
+        background-color: #394867;
+        position: absolute;
+        left: 0%;
+        top: 0%;
+        border: 5px solid #212A3E;
+        border-radius: 15px;
+    }
+    .father2 .fatherr2{
+        width: 47%;
+        height: 100%;
+        background-color: #394867;
+        position: absolute;
+        right: 0%;
+        top: 0%;
+        border: 5px solid #212A3E;
+        border-radius: 15px;
+    }
+    .fte, .text{
+        text-align: center;
+        color: white;
+    }
+    .text{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:1000px) {
+    .nav1{
+        height: 120px;
+        background-color: #212A3E;
+        position: relative;
+    }
+    #aa{
+        color: white;
+        font-size: 38px;
+    }
+    .aa1{
+        width: 18%;
+        height: 50%;
+        position: absolute;
+        right: 3%;
+    }
+    .aa2{
+        width: 18%;
+        height: 50%;
+        position: absolute;
+        right: 25%;
+    }
+    .father{
+        width: 100%;
+        height: 1150px;
+        background-color: white;
+        position: relative;
+    }
+    .fa1{
+        width: 100%;
+        height: 400px;
+    }
+    .fa2{
+        position: absolute;
+        top: 650px;
+        width: 100%;
+        height: 500px;
+    }
+    .fa2 .im{
+        width: 92%;
+        height: 100%;
+        position: absolute;
+        left: 4%;
+        border-radius: 25px;
+        
+    }
+    .fh1{
+        text-align: center;
+        font-size: 90px;
+    }
+    .fh6{
+        text-align: center;
+        font-size: 40px;
+    }
+    .a1{
+        position: relative;
+        left: 35%;
+    }
+    .father1{
+        width: 92%;
+        height: 120px;
+        background-color: #394867;
+        position: relative;
+        left: 4%;
+        border-radius: 15px;
+    }
+    .father1 .in{
+        width: 60%;
+        height: 60%;
+        border-radius: 15px;
+        position: absolute;
+        top: 20%;
+        left: 2%;
+        font-size: 30px;
+    }
+    .father1 .a2{
+        position: absolute;
+        top: 20%;
+        right: 8%;
+        width: 20%;
+        height: 55%;
+        font-size: 30px;
+    }
+    .father2{
+        width: 96%;
+        height: 1100px;
+        background-color: white;
+        position: relative;
+        left: 2%;
+        border-radius: 15px;
+    }
+    .father2 .fatherr1{
+        width: 100%;
+        height: 500px;
+        background-color: #394867;
+        position: absolute;
+        left: 0%;
+        top: 0%;
+        border: 5px solid #212A3E;
+        border-radius: 15px;
+    }
+    .father2 .fatherr2{
+        width: 100%;
+        height: 550px;
+        background-color: #394867;
+        position: absolute;
+        right: 0%;
+        top: 550px;
+        border: 5px solid #212A3E;
+        border-radius: 15px;
+    }
+    .fte, .text{
+        text-align: center;
+        color: white;
+    }
+    .fte{
+        font-size: 43px;
+    }
+    .text{
+        font-size: 38px;
+    }
+    .bigg1{
+        width: 56%;
+        height: 75px;
+        background-color: white;
+        position: relative;
+        left: 22%;
+    }
+    .bigg{
+        text-align: center;
+        font-size: 44px;
+    }
+}
